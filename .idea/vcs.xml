@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/Niftyverse-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Freelancing/Fiverr/Repeat-Alarm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Freelancing/Gmail/repeat_alarm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Freelancing/PPH/ContactManager_RN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Freelancing/PPH/ContactManager_RN copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Freelancing/PPH/NewGalleryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Freelancing/PPH/nodemediaclient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mapbox-hexagon/kaleemlab.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Niftyverse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Niftyverse-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Niftyverse-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Niftyverse-ios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OfficeWork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Personal/Code/StartAppExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mac_27_2/ExtraFolder/FaceDetectionFirebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mac_27_2/Learning/expo_learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mac_27_2/Learning/repeat_alarm/node_modules/react-native-alarm-notification/expo_learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mac_27_2/MLKitDemo" vcs="Git" />
   </component>
 </project>
